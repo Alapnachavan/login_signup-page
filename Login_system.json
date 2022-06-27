@@ -1,0 +1,50 @@
+[
+      {
+            "username": "aarti",
+            "phoneNo": 1234567890,
+            "age": 20,
+            "description": "student",
+            "hobby": "dance",
+            "password": "Aarti@123"
+      },
+      {
+            "username": "alpana",
+            "phoneNo": 98654321,
+            "age": 22,
+            "description": "student",
+            "hobby": "reading",
+            "password": "Appi*12"
+      },
+      {
+            "username": "rutu",
+            "phoneNo": 1234567890,
+            "age": 21,
+            "description": "student",
+            "hobby": "dance",
+            "password": "Rutu@123"
+      },
+      {
+            "username": "muskan",
+            "phoneNo": 123456789,
+            "age": 21,
+            "description": "student",
+            "hobby": "dance",
+            "password": "Muskan@123"
+      },
+      {
+            "username": "alpana",
+            "phoneNo": 98654321,
+            "age": 22,
+            "description": "student",
+            "hobby": "reading",
+            "password": "Appi*12"
+      },
+      {
+            "username": "muskan",
+            "phoneNo": 123456789,
+            "age": 20,
+            "description": "hgi",
+            "hobby": "iuijj",
+            "password": "@Musu098"
+      }
+]
